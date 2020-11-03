@@ -16,12 +16,6 @@ As an open source library, we respect all contributors to the open source commun
 
 3. Click "File-> Examples". Here are some test programs in "TK-BOT->"
 
-4. Depending on the type of board you're using, you need to modify the header file to match.
-
-   For example, if you're using a mCore. You should change `#include <TKOrion.h>` to `#include <TKMCore.h>`
-   Corresponding boards and there header file are:
-
-   TK-BOT   <-------->  TKOrion.h
   
    
 ### Revision of history:
